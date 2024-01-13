@@ -1,0 +1,23 @@
+{
+  "name": "threejs-particles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && about:blank#blockedexit 1",
+    "deploy" : "ghabout:blank#blocked-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaleabmez/threejs-particles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaleabmez/threejs-particles/issues"
+  },
+  "homepage": "https://github.com/kaleabmez/threejs-particles#readme",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
